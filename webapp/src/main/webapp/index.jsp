@@ -2,3 +2,5 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Welcome to JAN 2020 </h2>
 <h3> Running Application using DOCKER ANSIBLE </h3>
+
+<h2> Testing Application via Jenkins Jobs integration </h2>
